@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atereptione.github.io/sitemap
+Sitemap: https://atereptione.github.io/app/sitemap
+Sitemap: https://atereptione.github.io/assets/sitemap
+Sitemap: https://atereptione.github.io/css/sitemap
+Sitemap: https://atereptione.github.io/includes/sitemap
+Sitemap: https://atereptione.github.io/item/sitemap
+Sitemap: https://atereptione.github.io/src/sitemap
